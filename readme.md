@@ -1,0 +1,1 @@
+A script to clear your favourites from Twitter since the web UI does not provide a select-all option. You will need to first register on dev.twitter.com and get access token, consumer secret etc
